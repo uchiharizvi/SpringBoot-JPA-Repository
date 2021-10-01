@@ -3,7 +3,7 @@
         "-//Hibernate/Hibernate Mapping DTD 5.3//EN"
         "http://hibernate.sourceforge.net/hibernate-mapping-5.3.dtd">
 <hibernate-mapping>
-    <class name="com.practice.springhibernateapplicaton.dao.Users" table="users">
+    <class name="com.customers.application.entity.Users" table="users">
         <id name="userId">
             <generator class="assigned"></generator>
         </id>

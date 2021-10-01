@@ -1,6 +1,7 @@
-package com.practice.springhibernateapplicaton.service;
+package com.customers.application.service.impl;
 
-import com.practice.springhibernateapplicaton.dao.Users;
+import com.customers.application.entity.Users;
+import com.customers.application.service.PushService;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

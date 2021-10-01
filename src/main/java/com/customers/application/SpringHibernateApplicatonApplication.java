@@ -1,4 +1,4 @@
-package com.practice.springhibernateapplicaton;
+package com.customers.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

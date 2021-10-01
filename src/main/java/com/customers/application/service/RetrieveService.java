@@ -1,4 +1,4 @@
-package com.practice.springhibernateapplicaton.service;
+package com.customers.application.service;
 
 public interface RetrieveService {
     public String getData();
